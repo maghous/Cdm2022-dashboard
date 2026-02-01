@@ -5,7 +5,7 @@ An advanced football analytics dashboard for the **2022 FIFA World Cup**, powere
 This application provides in-depth tactical analysis, player performance metrics, and passing networks with a premium user interface.
 
 ## 🚀 Live Demo
-[https://cdm2022-dashboard.streamlit.app]
+https://cdm2022-dashboard.streamlit.app
 
 ## ✨ Key Features
 - **Elite UI/UX**: Custom dark-themed interface built with a professional design system.
@@ -43,9 +43,6 @@ This application provides in-depth tactical analysis, player performance metrics
    ```bash
    streamlit run app.py
    ```
-
-## 📸 Screenshots
-*(Add screenshots here after deployment)*
 
 ---
 *Created with ❤️ for football fans and analysts.*
