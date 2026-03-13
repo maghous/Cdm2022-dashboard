@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="2022_FIFA_World_Cup.png" alt="2022 FIFA World Cup" width="180">
+  <img src="2022_FIFA_World_Cup.svg.png" alt="2022 FIFA World Cup" width="180">
 
   <h1>🏆 Elite CDM 2022 Performance Dashboard</h1>
   <p><b>Advanced Tactical Intelligence Platform | 2022 FIFA World Cup</b></p>
